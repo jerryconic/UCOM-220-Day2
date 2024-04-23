@@ -26,7 +26,6 @@
     }
 }
 
-
 void CalcScore()
 {
     int score;
