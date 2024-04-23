@@ -1,2 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿for(; ; )
+{
+
+}
+
+void CalcScore()
+{
+
+}
+
+
+void TaxCalc()
+{
+
+}
+
+
+void Exchange()
+{
+
+}
