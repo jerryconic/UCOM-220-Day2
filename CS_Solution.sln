@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ap01_S", "Ap01_S\Ap01_S.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ap01_YX", "Ap01_YX\Ap01_YX.csproj", "{841FFA36-AE63-461E-A4A3-E9012E1A804B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ap01_YX", "Ap01_YX\Ap01_YX.csproj", "{841FFA36-AE63-461E-A4A3-E9012E1A804B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
