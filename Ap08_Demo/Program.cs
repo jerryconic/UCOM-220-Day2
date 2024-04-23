@@ -4,6 +4,7 @@ Random rnd = new Random();
 int answer = rnd.Next(1, 100);
 int guess, min = 1, max = 99;
 string s;
+
 do
 {
     Console.Write($"請猜一個{min}-{max}的數字:");
